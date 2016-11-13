@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pagecv
 title: About me 
 ---
 
