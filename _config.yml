@@ -1,0 +1,16 @@
+name: Dinh Duong
+description: Blogging about anything of programing
+meta_description: "Blogging about javascript, front-end, everythings about javascript"
+
+markdown: kramdown
+highlighter: rouge
+logo: true
+paginate: 15
+baseurl: /
+domain_name: 'http://jinhduong.github.io/'
+google_analytics: 'UA-76600560-1'
+gems: [jekyll-paginate]
+
+# Details for the RSS feed generator
+url:            'jinhduong.github.com'
+author:         'Dinh Duong'
