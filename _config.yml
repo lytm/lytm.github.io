@@ -7,10 +7,10 @@ highlighter: rouge
 logo: true
 paginate: 15
 baseurl: /
-domain_name: 'http://jinhduong.github.io/'
+domain_name: 'http://lytm.github.com/'
 google_analytics: 'UA-76600560-1'
 gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url:            'jinhduong.github.com'
-author:         'Dinh Duong'
+url:            'lytm.github.com'
+author:         'LyTm'
