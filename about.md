@@ -3,4 +3,4 @@ layout: page
 title: About me 
 ---
 
-I'm Dinh Duong. I'am a normal developer with a love with .... :D
+I'm Tran Minh Ly. I'm a Android developer!
